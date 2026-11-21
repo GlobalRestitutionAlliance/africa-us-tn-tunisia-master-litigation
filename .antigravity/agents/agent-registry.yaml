@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-tunisia-canal-and-intervention-historian
-  name: Tunisia Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-tunisia-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_tn_001
+    name: Tunisia Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_002
+    name: Tunisia Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_003
+    name: Tunisia Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_004
+    name: Tunisia Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_005
+    name: Tunisia Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_006
+    name: Tunisia Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_007
+    name: Tunisia Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_008
+    name: Tunisia Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_009
+    name: Tunisia Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_010
+    name: Tunisia Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_011
+    name: Tunisia Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_012
+    name: Tunisia Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_013
+    name: Tunisia Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_014
+    name: Tunisia Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_015
+    name: Tunisia Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_016
+    name: Tunisia Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_017
+    name: Tunisia Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_018
+    name: Tunisia Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_019
+    name: Tunisia Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_020
+    name: Tunisia Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_021
+    name: Tunisia Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_022
+    name: Tunisia Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_023
+    name: Tunisia Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_024
+    name: Tunisia Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_025
+    name: Tunisia Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_026
+    name: Tunisia Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_027
+    name: Tunisia Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_028
+    name: Tunisia Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_029
+    name: Tunisia Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_030
+    name: Tunisia Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_031
+    name: Tunisia Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_032
+    name: Tunisia Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_033
+    name: Tunisia Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_034
+    name: Tunisia Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_035
+    name: Tunisia Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_036
+    name: Tunisia Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_037
+    name: Tunisia Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_038
+    name: Tunisia Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_039
+    name: Tunisia Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_040
+    name: Tunisia Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_041
+    name: Tunisia Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_042
+    name: Tunisia Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_043
+    name: Tunisia Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_044
+    name: Tunisia Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_045
+    name: Tunisia Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_046
+    name: Tunisia Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_047
+    name: Tunisia Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_048
+    name: Tunisia Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_049
+    name: Tunisia Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_050
+    name: Tunisia Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_051
+    name: Tunisia Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_052
+    name: Tunisia Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_053
+    name: Tunisia Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_054
+    name: Tunisia Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_055
+    name: Tunisia Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_056
+    name: Tunisia Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_057
+    name: Tunisia Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_058
+    name: Tunisia Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_059
+    name: Tunisia Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_060
+    name: Tunisia Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_061
+    name: Tunisia Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_062
+    name: Tunisia Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_063
+    name: Tunisia Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_064
+    name: Tunisia Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_065
+    name: Tunisia Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_066
+    name: Tunisia Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_067
+    name: Tunisia Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_068
+    name: Tunisia Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_069
+    name: Tunisia Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_070
+    name: Tunisia Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_071
+    name: Tunisia Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_072
+    name: Tunisia Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_073
+    name: Tunisia Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_074
+    name: Tunisia Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_075
+    name: Tunisia Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_076
+    name: Tunisia Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_077
+    name: Tunisia Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_078
+    name: Tunisia Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_079
+    name: Tunisia Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_080
+    name: Tunisia Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_081
+    name: Tunisia Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_082
+    name: Tunisia Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_083
+    name: Tunisia Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_084
+    name: Tunisia Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_085
+    name: Tunisia Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_086
+    name: Tunisia Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_087
+    name: Tunisia Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_088
+    name: Tunisia Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_089
+    name: Tunisia Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_090
+    name: Tunisia Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_091
+    name: Tunisia Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_092
+    name: Tunisia Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_093
+    name: Tunisia Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_094
+    name: Tunisia Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_095
+    name: Tunisia Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_096
+    name: Tunisia Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_097
+    name: Tunisia Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_098
+    name: Tunisia Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_099
+    name: Tunisia Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_100
+    name: Tunisia Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_101
+    name: Tunisia Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_102
+    name: Tunisia Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_103
+    name: Tunisia Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_104
+    name: Tunisia Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_105
+    name: Tunisia Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_106
+    name: Tunisia Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_107
+    name: Tunisia Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_108
+    name: Tunisia Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_109
+    name: Tunisia Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_110
+    name: Tunisia Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_111
+    name: Tunisia Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_112
+    name: Tunisia Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_113
+    name: Tunisia Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_114
+    name: Tunisia Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_115
+    name: Tunisia Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_116
+    name: Tunisia Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_117
+    name: Tunisia Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_118
+    name: Tunisia Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_119
+    name: Tunisia Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_120
+    name: Tunisia Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_121
+    name: Tunisia Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_122
+    name: Tunisia Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_123
+    name: Tunisia Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_124
+    name: Tunisia Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_125
+    name: Tunisia Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_126
+    name: Tunisia Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_127
+    name: Tunisia Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_128
+    name: Tunisia Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_129
+    name: Tunisia Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_130
+    name: Tunisia Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_131
+    name: Tunisia Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_132
+    name: Tunisia Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_133
+    name: Tunisia Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_134
+    name: Tunisia Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_135
+    name: Tunisia Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_136
+    name: Tunisia Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_137
+    name: Tunisia Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_138
+    name: Tunisia Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_139
+    name: Tunisia Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_140
+    name: Tunisia Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_141
+    name: Tunisia Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_142
+    name: Tunisia Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_143
+    name: Tunisia Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_144
+    name: Tunisia Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_145
+    name: Tunisia Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_146
+    name: Tunisia Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_147
+    name: Tunisia Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_148
+    name: Tunisia Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_149
+    name: Tunisia Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_150
+    name: Tunisia Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_151
+    name: Tunisia Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_152
+    name: Tunisia Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_153
+    name: Tunisia Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_154
+    name: Tunisia Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_155
+    name: Tunisia Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_156
+    name: Tunisia Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_157
+    name: Tunisia Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_158
+    name: Tunisia Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_159
+    name: Tunisia Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_160
+    name: Tunisia Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_161
+    name: Tunisia Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_162
+    name: Tunisia Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_163
+    name: Tunisia Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_164
+    name: Tunisia Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_165
+    name: Tunisia Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_166
+    name: Tunisia Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_167
+    name: Tunisia Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_168
+    name: Tunisia Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_169
+    name: Tunisia Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tn_170
+    name: Tunisia Agent 170
+    status: ACTIVE_SCAFFOLD
