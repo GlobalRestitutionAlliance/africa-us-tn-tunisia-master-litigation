@@ -1,0 +1,18 @@
+{
+  "url": "https://chroniclingamerica.loc.gov/",
+  "final_url": "https://www.loc.gov/collections/chronicling-america/",
+  "title": "Chronicling America LOC",
+  "fetched_at": "2026-11-23T08:02:33.788817Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44524,
+  "sha256": "11cd43e0d8f432fb7aa52f6a8230a6129e34e82bd198de68e06c35df33c1fbba",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

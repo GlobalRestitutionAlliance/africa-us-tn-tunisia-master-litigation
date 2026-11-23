@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=tunisia+colonial+forced+labor+slavery",
+  "final_url": "https://www.loc.gov/item/?q=tunisia+colonial+forced+labor+slavery",
+  "title": "Library of Congress - Tunisia",
+  "fetched_at": "2026-11-23T08:02:33.786817Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44600,
+  "sha256": "97b2b9d41a40a74466a927796002556c24dfc591e7b880f83a07606e72d26c1f",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

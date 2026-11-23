@@ -35,6 +35,8 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-23 | French_National_Archives_public_portal.html | https://www.archives-nationales.culture.gouv.fr/ | OpenCode/harvest | e7cf8c9c80bac0ba01156deece634152a7320c9d9bdfc0de4fe579e70ec601f1 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=79946 final_url=https://www.archives-nationales.culture.gouv.fr/ |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
